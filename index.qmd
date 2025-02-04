@@ -1,0 +1,36 @@
+---
+title: "Welcome to the Fox Den"
+image: images/Foxplay.png
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/realfoxmccloud
+--- 
+---
+# Korey Wetherell
+---
+## About Me
+I am a graduate student at the University of Hawai‘i at Mānoa, where I study pollinators through a biocultural and mutualistic lens. My research focuses on the Hawaiian yellow-faced bee (*Hylaeus*), examining its ecological role, conservation status, and cultural significance within Hawai‘i. I am particularly interested in integrating Indigenous knowledge systems with modern scientific methodologies to develop innovative conservation strategies.
+
+## Background & Training
+**Education:**  
+  - B.A. in Sustainability Studies, Colorado Mountain College  
+  - M.A. (in progress) in Geography & Environment, UH Mānoa  
+  - Graduate Certificate in Ecology, Evolution, and Conservation Biology (EECB), UH Mānoa  
+**Research Focus:** Pollinator conservation, ecosystem mutualisms, GIS applications in ecology  
+**Field Experience:** Ecological restoration, cultural site restoration, pollinator surveys, archival research  
+
+## Technical & Analytical Skills
+**Statistics & Data Analysis:** Basic experience with ecological data analysis and visualization  
+**GIS & Mapping:** Proficient in ArcGIS and QGIS for spatial analysis, cartography, and StoryMapping  
+**Programming:** Experience with Python for mapping, minimal SQL  
+**Data Collection:** Field-based methods including pollinator sampling, ethnographic interviews, and archival analysis  
+
+## What I Hope to Learn in This Course
+I am eager to strengthen my web development skills, particularly in structuring and presenting research findings in an engaging, accessible way. I hope to integrate interactive mapping, data visualization, and dynamic storytelling into my work, making scientific research more publicly accessible and impactful. I also hope to facilitate better the integration of quantitative data into my mixed methods approaches through the use of R. 
+
+   
+![This fox is pretty out of this world, am I right?](images/FoxOriginal.png)
+---
